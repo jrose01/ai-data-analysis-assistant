@@ -1,11 +1,12 @@
-# Data Project Template
+# Project Template for Data Science Projects and AI Applications
 
-<a target="_blank" href="https://datalumina.com/">
-    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
-</a>
+This particular project builds an AI powered data analysis application using Python, LangChain, OpenAI, and Streamlit.  It is also set up to be a template for your own projects. The templated was generated from 
+datalumina/datalumina-project-template github repository.
 
-## Cookiecutter Data Science
-This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
+The project is organized to follow best practices in data science and machine learning, including clear separation of raw data, processed data, and model artifacts. It also includes a `.gitignore` file to help manage version control effectively.
+
+
+Notes from the original Datalumina template README.md:
 
 ## Adjusting .gitignore
 
