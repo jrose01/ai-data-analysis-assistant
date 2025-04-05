@@ -5,6 +5,7 @@ datalumina/datalumina-project-template github repository.
 
 The project is organized to follow best practices in data science and machine learning, including clear separation of raw data, processed data, and model artifacts. It also includes a `.gitignore` file to help manage version control effectively.
 
+Note: This project is in a very early development stage, and therefore must be used with caution. It is currently a course project that has yet to undergo extensive testing and validation for accuracy and reliability. It is not recommended that private, sensitive, or identifiable data be used with this application. 
 
 Notes from the original Datalumina template README.md:
 
